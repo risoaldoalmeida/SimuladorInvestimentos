@@ -33,7 +33,7 @@ A planilha permite que investidores simulem diferentes cenários de investimento
 
 - Microsoft Excel
   - Fórmulas
-  - Funções financeiras
+  - Funções financeiras: VF (uma das funções financeiras, calcula o valor futuro de um investimento com base em uma taxa de juros constante. Você pode usar VF com pagamentos periódicos e constantes ou um pagamento de quantia única)
   - Layout amigável e organizado
 
 ## 📝 Como utilizar
